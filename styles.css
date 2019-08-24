@@ -1,0 +1,29 @@
+h1,h2 {
+  text-align: center;
+  color: black;
+}
+p{
+  text-align: center;
+  color: #a01b1b;
+}
+ul{
+  background: white;
+  padding: 20px;
+}
+ul li {
+  background: #ffe5e5;
+  padding: 0px;
+  margin: 15px;
+}
+img{
+  display: flex;
+  padding: inherit;
+  margin: auto;
+}
+ul{
+  list-style: none;
+  margin: auto;
+  padding-left: 90px;
+  padding-bottom: 60px;
+  display: block;
+}
